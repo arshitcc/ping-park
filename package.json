@@ -1,5 +1,5 @@
 {
-  "name": "turbo-start",
+  "name": "ping-park",
   "private": true,
   "scripts": {
     "build": "turbo run build",
@@ -9,8 +9,9 @@
     "check-types": "turbo run check-types"
   },
   "devDependencies": {
+    "@swc/core": "^1.15.3",
     "prettier": "^3.6.2",
-    "turbo": "^2.6.0",
+    "turbo": "^2.6.1",
     "typescript": "5.9.2"
   },
   "packageManager": "pnpm@9.0.0",
