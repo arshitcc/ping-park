@@ -1,0 +1,4 @@
+{
+  "ext": "ts,json,env",
+  "execMap": { "ts": "pnpm tsx" }
+}
